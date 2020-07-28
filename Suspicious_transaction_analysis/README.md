@@ -16,5 +16,5 @@ You are asked to accomplish three main tasks:
 ---
 ## Optional Challenge
 
-Another approach to identify fraudulent transactions is to look for outliers in the data. **Standard deviation** or **quartiles** are often used to detect outliers. Define a function using these approaches and apply it to the transactions in the project.
+Another approach to identify fraudulent transactions is to look for outliers in the data. **Standard deviation** or **quartiles** are often used to detect outliers. Define a function using these approaches and apply it to the transactions in the project. It is documented in [Jupyter Notebook](https://github.com/coolwonny/Portfolio_project/blob/master/Suspicious_transaction_analysis/challenge.ipynb)
 
