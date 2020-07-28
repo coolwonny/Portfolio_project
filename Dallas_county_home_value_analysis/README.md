@@ -18,7 +18,8 @@ The top 5 movers over the past 5 years, defined as cities with the highest home 
 ![Top 5 Cities Over Past 5 Years](https://github.com/coolwonny/Portfolio_project/blob/master/Dallas_county_home_value_analysis/Images/top%205%20movers.png)
 
 ## Bottom 5 Cities in Dallas County by Value
-The bottom 5 movers over the past 5 years, defined as cities with the lowest home value appreciation in terms of total percentage increase in value, were Addison, Highland Park, University Park, Combine and Coppell.  It should be re-stated that **all** of the cities in this analysis, including these bottom 5 movers, increased in value over the analyzed time period.  These “bottom” 5 had the lowest increases in total value during that span.
+The bottom 5 movers over the past 5 years, defined as cities with the lowest home value appreciation in terms of total percentage increase in value, were Addison, Highland Park, University Park, Combine and Coppell.  It should be re-stated that **all** of the cities in this analysis, including these bottom 5 movers, increased in value over the analyzed time period.  These “bottom” 5 had the lowest increases in total value during that span.   
+
 ![Bottom 5 Cities Over Past 5 Years](https://github.com/coolwonny/Portfolio_project/blob/master/Dallas_county_home_value_analysis/Images/bottom%205%20movers.png)
 
 ## County Home Value Influencers
