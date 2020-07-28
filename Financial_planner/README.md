@@ -19,7 +19,7 @@ In this project, you will complete the following tasks:
 ---
 
 ### Files:
- 1. account_summary.ipynb: Budget Analysis with Plaid
- 2. portfolio_planner.ipynb: Retirement Planner
- 3. early_retirement(optional).ipynb: Early Retirement Plan
- 4. financial_report.md
+ 1. [account_summary.ipynb](https://github.com/coolwonny/Portfolio_project/blob/master/Financial_planner/account_summary.ipynb): Budget Analysis with Plaid
+ 2. [portfolio_planner.ipynb](https://github.com/coolwonny/Portfolio_project/blob/master/Financial_planner/portfolio_planner.ipynb): Retirement Planner
+ 3. [early_retirement(optional).ipynb](https://github.com/coolwonny/Portfolio_project/blob/master/Financial_planner/early_retirement(optional).ipynb): Early Retirement Plan
+ 4. [financial_report.md](https://github.com/coolwonny/Portfolio_project/blob/master/Financial_planner/financial_report.md)
