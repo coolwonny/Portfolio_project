@@ -12,3 +12,5 @@ In this project, you will be accomplishing three main tasks:
 1. Read in and Wrangle Returns Data
 2. Determine Success of Each Portfolio
 3. Choose and Evaluate a Custom Portfolio
+---
+It is documented in [jupyter notebook](https://github.com/coolwonny/Portfolio_project/blob/master/Performance_evaluation/whale_analysis.ipynb).
