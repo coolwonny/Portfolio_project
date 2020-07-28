@@ -9,9 +9,9 @@ You are asked to accomplish three main tasks:
 
 1. Data Modeling: Define a database model to store the credit card transactions data and create a new PostgreSQL database using your model.
 
-2. Data Engineering: Create a database schema on PostgreSQL and populate your database from the CSV files provided.
+2. Data Engineering: Create a database [schema](https://github.com/coolwonny/Portfolio_project/blob/master/Suspicious_transaction_analysis/schema.sql) on PostgreSQL and populate your database from the CSV files provided.
 
-3. Data Analysis: Analyze the data to identify possible fraudulent transactions.
+3. [Data Analysis](https://github.com/coolwonny/Portfolio_project/blob/master/Suspicious_transaction_analysis/suspicious_transaction_analysis.ipynb): Analyze the data to identify possible fraudulent transactions.
 
 ---
 ## Optional Challenge
