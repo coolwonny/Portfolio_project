@@ -8,7 +8,7 @@ Your company has just started a new Real Estate Investment division to provide c
 The goal of this dashboard is to provide charts, maps, and interactive visualizations that help customers explore the data and determine if they want to invest in rental properties in San Francisco.
 In this assignment, you will accomplish the following tasks:
 
-1. Complete a notebook of rental analysis
+1. Complete a [notebook of rental analysis](https://github.com/coolwonny/Portfolio_project/blob/master/Rental_analysis/rental_analysis.ipynb)
 
 2. Create a dashboard of interactive visualizations to explore the market data
 
@@ -16,7 +16,7 @@ In this assignment, you will accomplish the following tasks:
 
 ### How to run and use the dashboard
 
-1. To run the dashboard, please click the `dashboard.ipynb` file in the directory.
+1. To run the dashboard, please click the [dashboard.ipynb](https://github.com/coolwonny/Portfolio_project/blob/master/Rental_analysis/dashboard.ipynb) file in the directory.
 2. You may need to have Jupyter Lab or Jupyter Notebook downloaded to your computer to run the file.
 3. Dashboard will show up when you run all the lines in the file.
 4. You will encounter a welcome screen on the dashboard where you can find a summary of how to navigate through the dashboard.
