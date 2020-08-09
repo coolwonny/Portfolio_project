@@ -13,3 +13,4 @@
 9. **[Machine Learning - Ensemble Learning](https://github.com/coolwonny/ensemble_learning)**: Evaluating different resampling methods and ensemble models, Logistic Regression
 10. **[Sentiment Analysis - Natural Language Processing](https://github.com/coolwonny/Sentiment_Analysis_NLP)**: Finding common keywords and sentiments of recent articles related to bitcoin and ethereum
 11. **[Robo Advisor for Retirement Plan](https://github.com/coolwonny/RoboAdvisor)**: Creating a simple bot using Amazon Lex, enhancing it with a lambda function in validating data provided by users.
+12. **[LSTM Stock Predictor](https://github.com/coolwonny/LSTM-Stock-Predictor)**: Building and comparing RNN-LSTM models to determine which performs best in predicting Bitcoin closing prices.
