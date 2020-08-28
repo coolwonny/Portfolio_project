@@ -15,4 +15,4 @@
 11. **[Robo Advisor for Retirement Plan](https://github.com/coolwonny/RoboAdvisor)**: Creating a simple bot using Amazon Lex, enhancing it with a lambda function in validating data provided by users.
 12. **[LSTM Stock Predictor](https://github.com/coolwonny/LSTM-Stock-Predictor)**: Building and comparing RNN-LSTM models to determine which performs best in predicting Bitcoin closing prices.
 13. **[Gold Price Prediction - Deep Learning](https://github.com/coolwonny/Gold-Price-Prediction)**: Building an RNN-LSTM model to predict the future gold prices.
-14. **[Chasing the Whale](https://github.com/coolwonny/Chasing-the-Whale)**: Creating a portfolio to outperform the market return with optimzed industry sector weightings by pulling out from the SEC 13F filing data.
+14. **[Chasing the Whale](https://github.com/coolwonny/Chasing-the-Whale)**: Pulling out from the SEC 13F filing data, can we get an optimized weightings by industry sector so that create a portfolio to outperform the market return?
