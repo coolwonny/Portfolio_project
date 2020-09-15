@@ -16,3 +16,4 @@
 12. **[LSTM Stock Predictor](https://github.com/coolwonny/LSTM-Stock-Predictor)**: Building and comparing RNN-LSTM models to determine which performs best in predicting Bitcoin closing prices.
 13. **[Gold Price Prediction - Deep Learning](https://github.com/coolwonny/Gold-Price-Prediction)**: Building an RNN-LSTM model to predict the future gold prices.
 14. **[Chasing the Whale](https://github.com/coolwonny/Chasing-the-Whale)**: From the SEC 13F filing data, can we grab a set of optimized weightings by industry sector that make our portfolio outperform the market return?
+15. **[Proof of Authority - Blockchain](https://github.com/coolwonny/proof-of-authority)**: Setting up a new private testnet blockchain that enables developers to explore potentials for blockchain environment.
