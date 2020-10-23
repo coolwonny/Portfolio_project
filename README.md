@@ -18,4 +18,4 @@
 14. **[Chasing the Whale](https://github.com/coolwonny/Chasing-the-Whale)**: From the SEC 13F filing data, can we grab a set of optimized weightings by industry sector that make our portfolio outperform the market return?
 15. **[Proof of Authority - Blockchain](https://github.com/coolwonny/proof-of-authority)**: Setting up a new private testnet blockchain that enables developers to explore potentials for blockchain environment.
 16. **[Multi-coin Blockchain Wallet](https://github.com/coolwonny/Wallet)**: Creating a multi-coin wallet that enables us to manage across 300+ cryptocurrencies using Python, testing some transactions for Ethereum and Bitcoin Testnet.  
-17. **[NLP and Sentiment Analysis on Tesla Stock Price Movements](https://github.com/coolwonny/project-3)**: Researching if there is any correlation between the text sentiment of a given stock and the stock's movement. 
+17. **[NLP: Text Sentiments vs. Tesla Stock Price Movements](https://github.com/coolwonny/project-3)**: Researching if there is any correlation between the text sentiment of a given stock and the stock's movement. 
